@@ -9,7 +9,7 @@ This respository contains the instances and supplementary data used in Silvestri
 ## Supplementary material
 
 * Table 5: Results of the ITS with 103, 104 , 105 and 106 iterations on instances with two compartments and division strategy S1. Split demands are allowed: [10³ iterations](data/2c-1000it.csv), [10⁴ iterations](data/2c-10000it.csv), [10⁵ iterations](data/2c-100000it.csv), [10⁶ iterations](data/2c-1000000it.csv). 
-* Table 6: Results of the ITS with 105 iterations and two to five compartments and division strategy S1. Split demands are allowed: [m=2](2-compartment.csv), [m=3](3-compartment.csv), [m=4](4-compartment.csv), [m=5](5-compartment.csv). 
+* Table 6: Results of the ITS with 105 iterations and two to five compartments and division strategy S1. Split demands are allowed: [m=2](data/2-compartment.csv), [m=3](data/3-compartment.csv), [m=4](data/4-compartment.csv), [m=5](data/5-compartment.csv). 
 * Table 7: Comparison to the results of El Fallahi et al. (2008), Muyldermans & Pang (2010) and Derigs et al. (2010): the data is the same as in Table 5. 
 * Table 8: Comparison to the results of El Fallahi et al. (2008) on instances with division strategy S2: [ITS/Single](data/s2-10000-ws.csv), [ITS/Mult](data/s2-10000.csv).
 * Table 9: Comparison of the results of Abdulkader et al. (2015) on instances with division strategy S3 to ITS with single and multiple visits and 104 iterations.: [ITS/Single](data/reed1-10000-ws.csv), [ITS/Multiple](data/reed1-10000.csv). 
@@ -27,4 +27,5 @@ This respository contains the instances and supplementary data used in Silvestri
   pages =    {192--202},
   month =    may,
   doi =      {10.1016/j.cor.2016.12.023}
+}
 ```
